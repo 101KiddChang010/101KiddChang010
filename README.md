@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [kiddchang02.github.io/kiddchang.github.io/](kiddchang02.github.io/kiddchang.github.io/)
 
-- 📫 How to reach me **kiddochang02@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kidd-chang-763258221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kidd-chang-763258221" height="30" width="40" /></a>
