@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 👨‍💻 All of my projects are available at [kiddchang02.github.io/kiddchang.github.io/](kiddchang02.github.io/kiddchang.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/KiddChang02?tab=repositories](https://github.com/KiddChang02?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
