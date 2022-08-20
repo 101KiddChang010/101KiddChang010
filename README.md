@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kidd</h1>
 <h3 align="center">A self-taught developer</h3>
 
-- 🌱 I’m currently learning **Swift** and **React**
+- 🌱 I’m currently learning The Odin Project
 
 - 👨‍💻 All of my projects are available at [https://github.com/KiddChang02?tab=repositories](https://github.com/KiddChang02?tab=repositories)
 
