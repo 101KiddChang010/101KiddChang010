@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning The Odin Project
 
-- 👨‍💻 All of my projects are available at [https://github.com/101KiddChang010?tab=repositories](https://github.com/KiddChang02?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/101KiddChang010?tab=repositories](https://github.com/101KiddChang010?tab=repositories)
 
 - 📫 How to reach me [https://linkedin.com/in/kidd-chang-763258221/](linkedin.com/in/kidd-chang-763258221/)
 
