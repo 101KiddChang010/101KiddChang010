@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kidd</h1>
-<h3 align="center">A Software Engineer at 100devs</h3>
+<h3 align="center">A self taught developer</h3>
 
 - 🔭 I’m currently working on [Library App](https://github.com/101KiddChang010/library-app)
 
