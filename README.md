@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/101KiddChang010?tab=repositories](https://github.com/101KiddChang010?tab=repositories)
 
-- 📫 How to reach me **linkedin.com/in/kidd-chang**
+- 📫 How to reach me [https://linkedin.com/in/kidd-chang](linkedin.com/in/kidd-chang)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
