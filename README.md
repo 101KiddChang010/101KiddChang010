@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kidd</h1>
+
 - 🔭 I’m currently learning **React**
 
 - 🌱 I’m currently working on **TheOdinProject**
