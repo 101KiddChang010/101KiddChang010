@@ -6,7 +6,7 @@ Web Developer who loves to be intellectually challenged, eager to grow and exper
 🔭 I’m currently learning **React**\
 🎓 I'm currently studying computer science at Wayne State University\
 🌱 I’m currently working on **TheOdinProject**\
-💻 All of my projects are available at [https://github.com/KiddChang02?tab=repositories](https://github.com/KiddChang02?tab=repositories)\
+💻 All of my projects are available at [https://github.com/101KiddChang010?tab=repositories](https://github.com/101KiddChang010?tab=repositories)\
 🏎️ In my free time, I love spending time with my family, friends and driving my car
 
 
