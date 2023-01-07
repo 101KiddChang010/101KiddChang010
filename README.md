@@ -5,7 +5,7 @@ Web Developer who loves to be intellectually challenged, eager to grow and exper
 
 🔭 I’m currently learning **React**\
 🎓 I'm currently studying computer science at Wayne State University\
-🌱 I’m currently working on **TheOdinProject**\
+🌱 I’m currently working on **Scrimba's** react course\
 💻 All of my projects are available at [https://github.com/101KiddChang010?tab=repositories](https://github.com/101KiddChang010?tab=repositories)\
 🏎️ In my free time, I love spending time with my family, friends and driving my car
 
@@ -21,7 +21,7 @@ Web Developer who loves to be intellectually challenged, eager to grow and exper
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<h5>Libraries and Frameworks:</h5>
+<h5>Libraries, Frameworks & Tools:</h5>
 
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -30,10 +30,7 @@ Web Developer who loves to be intellectually challenged, eager to grow and exper
 ![Babel](https://img.shields.io/badge/Babel-gray?style=for-the-badge&logo=Babel&logoColor=yellow)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-<h5>Database:</h5>
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 <h5>Version Control System (VCS):</h5>
 
