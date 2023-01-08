@@ -1,6 +1,6 @@
-# Hi 👋, I'm Kidd ![Linux](https://img.shields.io/badge/OS-Linux-green?style=for-the-&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-&logo=windows&logoColor=blue) ![Code](https://img.shields.io/badge/Main%20Language-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=F7DF1E) ![Visual Studio Code](https://img.shields.io/badge/Main%20IDE-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=007ACC)
+# <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="50px" height="30px" /> I'm Kidd ![Linux](https://img.shields.io/badge/OS-Linux-green?style=for-the-&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-&logo=windows&logoColor=blue) ![Code](https://img.shields.io/badge/Main%20Language-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=F7DF1E) ![Visual Studio Code](https://img.shields.io/badge/Main%20IDE-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Opera](https://img.shields.io/badge/Favorite%20Browser-Opera-FF1B2D?style=flat&logo=Opera&logoColor=FF1B2D)
 
-### 👨‍💻 About Me
+### <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="25px" height="25px" /> About Me
 Web Developer who loves to be intellectually challenged, eager to grow and experience the continuous journey that programming has to offer
 
 🔭 I’m currently learning **React**\
@@ -10,7 +10,7 @@ Web Developer who loves to be intellectually challenged, eager to grow and exper
 🏎️ In my free time, I love spending time with my family, friends and driving my car
 
 
-### 🛠 Tech Stack
+### <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="25px" height="25px" /> Tech Stack
 <h5>Programming Languages:</h5>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,6 +31,7 @@ Web Developer who loves to be intellectually challenged, eager to grow and exper
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
 <h5>Version Control System (VCS):</h5>
 
@@ -44,13 +45,13 @@ Web Developer who loves to be intellectually challenged, eager to grow and exper
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
-### ⚙️ GitHub Analytics
+### <img src="https://media.giphy.com/media/5OBsBaBbwMNifB3DZV/giphy.gif" width="25px" height="25px" /> GitHub Analytics
 <a href="https://github.com/101kiddchang010">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=101kiddchang010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=101kiddchang010&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 
-### 🤝 Connect with Me
+### <img src="https://media.giphy.com/media/2cwPS1zA560EMhufr7/giphy.gif" width="25px" height="25px" /> Connect with Me
 <p align="left">
 <a href="https://101kiddchang010.github.io"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/kidd-chang"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
