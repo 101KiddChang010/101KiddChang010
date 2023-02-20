@@ -1,11 +1,11 @@
-# <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="50px" height="30px" /> I'm Kidd ![Linux](https://img.shields.io/badge/OS-Linux-green?style=for-the-&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-&logo=windows&logoColor=blue) ![Code](https://img.shields.io/badge/Main%20Language-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=F7DF1E) ![Visual Studio Code](https://img.shields.io/badge/Main%20IDE-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Opera](https://img.shields.io/badge/Favorite%20Browser-Opera-FF1B2D?style=flat&logo=Opera&logoColor=FF1B2D)
+# <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="50px" height="30px" /> I'm Kidd ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-&logo=windows&logoColor=blue) ![Code](https://img.shields.io/badge/Main%20Language-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=F7DF1E) ![Visual Studio Code](https://img.shields.io/badge/Main%20IDE-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Opera](https://img.shields.io/badge/Favorite%20Browser-Opera-FF1B2D?style=flat&logo=Opera&logoColor=FF1B2D)
 
 ### <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="25px" height="25px" /> About Me
 Web Developer who loves to be intellectually challenged, eager to grow and experience the continuous journey that programming has to offer
 
-🔭 I’m currently learning **React**\
+🔭 I’m currently learning **React & Next.JS**\
 🎓 I'm currently studying computer science at Wayne State University\
-🌱 I’m currently working on **Scrimba's** react course\
+🌱 I’m currently working on my own projects\
 💻 All of my projects are available at [https://github.com/101KiddChang010?tab=repositories](https://github.com/101KiddChang010?tab=repositories)\
 🏎️ In my free time, I love spending time with my family, friends and driving my car
 
@@ -19,32 +19,28 @@ Web Developer who loves to be intellectually challenged, eager to grow and exper
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <h5>Libraries, Frameworks & Tools:</h5>
 
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Webpack](https://img.shields.io/badge/Webpack-05122A?style=for-the-badge&logo=Webpack&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-gray?style=for-the-badge&logo=Babel&logoColor=yellow)
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-
-<h5>Version Control System (VCS):</h5>
-
+![Babel](https://img.shields.io/badge/Babel-gray?style=for-the-badge&logo=Babel&logoColor=yellow)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+<h5>Design Tools:</h5>
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 <h5>Integrated Development Environment (IDE):</h5>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=for-the-badge&logo=visual-studio&logoColor=5D2B90)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 ### <img src="https://media.giphy.com/media/5OBsBaBbwMNifB3DZV/giphy.gif" width="25px" height="25px" /> GitHub Analytics
 <a href="https://github.com/101kiddchang010">
