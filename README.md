@@ -21,6 +21,7 @@ Web Developer who loves to be intellectually challenged, eager to grow and exper
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-007ACC?style=for-the-badge&logoColor=white)
 
 <h5>Programming Libraries, Frameworks, Tools</h5>
 
