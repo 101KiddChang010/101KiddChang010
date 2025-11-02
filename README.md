@@ -3,7 +3,6 @@
 ### <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="25px" height="25px" /> About Me
 Web Developer who loves to be intellectually challenged, eager to grow and experience the continuous journey that programming has to offer
 
-🎓 I'm currently studying computer science at Wayne State University\
 💻 All of my projects are available at [https://github.com/101KiddChang010?tab=repositories](https://github.com/101KiddChang010?tab=repositories)\
 🏎️ In my free time, I love spending time with my family, friends and driving my car
 
