@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="50px" height="30px" /> I'm Kidd ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-&logo=windows&logoColor=blue) ![Code](https://img.shields.io/badge/Main%20Language-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=F7DF1E) ![Visual Studio Code](https://img.shields.io/badge/Main%20IDE-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Opera](https://img.shields.io/badge/Favorite%20Browser-Opera-FF1B2D?style=flat&logo=Opera&logoColor=FF1B2D)
 
 ### <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="25px" height="25px" /> About Me
-Web Developer who loves to be intellectually challenged, eager to grow and experience the continuous journey that programming has to offer
+Software Engineer who loves to be intellectually challenged, eager to grow and experience the continuous journey of growth that life has to offer
 
 💻 All of my projects are available at [https://github.com/101KiddChang010?tab=repositories](https://github.com/101KiddChang010?tab=repositories)\
 🏎️ In my free time, I love spending time with my family, friends and driving my car
@@ -65,5 +65,4 @@ Web Developer who loves to be intellectually challenged, eager to grow and exper
 <p align="left">
 <a href="https://101kiddchang010.github.io"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/kidd-chang"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/ChangKiddSE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
